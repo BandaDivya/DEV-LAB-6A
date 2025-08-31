@@ -1,0 +1,8 @@
+THEORY 
+Tableau allows users to connect to different data file formats (Excel, CSV, JSON, etc.) 
+and create the first visualization by dragging fields onto rows/columns.
+Tableau is a powerful data visualization tool that helps to analyze, understand, and present data effectively.
+The first visualization usually involves connecting a dataset and plotting a simple chart like a line or bar graph.
+Tableau automatically identifies dimensions and measures to generate meaningful visuals.
+The importance of Tableau lies in its ability to turn raw data into interactive insights quickly.
+It is widely used in business intelligence, decision-making, and data analysis due to its simplicity and efficiency.
